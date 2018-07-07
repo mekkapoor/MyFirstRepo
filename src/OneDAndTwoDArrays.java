@@ -9,7 +9,7 @@ public class OneDAndTwoDArrays {
 		}
 		
 		
-		String[][] TwoD_Array= new String[4][2];
+		String[][] TwoD_Array= new String[5][2];
 		TwoD_Array[0][0]="Mehak";
 		TwoD_Array[0][1]="IT Engineer";
 		TwoD_Array[1][0]="Anki";
@@ -18,6 +18,8 @@ public class OneDAndTwoDArrays {
 		TwoD_Array[2][1]="Boutique";
 		TwoD_Array[3][0]="Ashwani";
 		TwoD_Array[3][1]="Business";
+		TwoD_Array[4][0]="Accenture";
+		TwoD_Array[4][1]="JP Morgan";
 		
 		for(int m=0;m<TwoD_Array.length;m++)
 		{
