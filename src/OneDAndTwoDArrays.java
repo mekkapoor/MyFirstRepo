@@ -18,7 +18,7 @@ public class OneDAndTwoDArrays {
 		TwoD_Array[2][1]="Boutique";
 		TwoD_Array[3][0]="Ashwani";
 		TwoD_Array[3][1]="Business";
-		TwoD_Array[4][0]="Accenture";
+		TwoD_Array[4][0]="Accenture Solutions";
 		TwoD_Array[4][1]="JP Morgan";
 		
 		for(int m=0;m<TwoD_Array.length;m++)
