@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company name="Accenture">
+<employees>
+<employee>
+<id>11037785</id>
+<name>Mehak</name>
+<Date_of_Joining>20-Nov-2014</Date_of_Joining>
+<total_experience>3.7 years</total_experience>
+</employee>
+<employee>
+<id>SBI-PO</id>
+<name>Ankit</name>
+<Date_of_Joining>26-Oct-2018</Date_of_Joining>
+<total_experience>fresher</total_experience>
+</employee>
+<employee>
+<id>Boutique-id</id>
+<name>Manisha</name>
+<Date_of_joining>2-Jan-2019</Date_of_joining>
+<total_experience>5 years</total_experience>
+</employee>
+<employee>
+<id>Business-Id</id>
+<name>Ashwani</name>
+<Date_of_joining>2-Jan-2019</Date_of_joining>
+<total_experience>30 years</total_experience>
+</employee>
+</employees>
+</company>
